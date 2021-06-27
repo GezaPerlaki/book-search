@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/GezaPerlaki.github.io/book-search/static/css/main.877b16b8.chunk.css",
+    "main.js": "/GezaPerlaki.github.io/book-search/static/js/main.08778ae1.chunk.js",
+    "main.js.map": "/GezaPerlaki.github.io/book-search/static/js/main.08778ae1.chunk.js.map",
+    "runtime-main.js": "/GezaPerlaki.github.io/book-search/static/js/runtime-main.df86e22a.js",
+    "runtime-main.js.map": "/GezaPerlaki.github.io/book-search/static/js/runtime-main.df86e22a.js.map",
+    "static/css/2.c7c62aa4.chunk.css": "/GezaPerlaki.github.io/book-search/static/css/2.c7c62aa4.chunk.css",
+    "static/js/2.dcbccf4a.chunk.js": "/GezaPerlaki.github.io/book-search/static/js/2.dcbccf4a.chunk.js",
+    "static/js/2.dcbccf4a.chunk.js.map": "/GezaPerlaki.github.io/book-search/static/js/2.dcbccf4a.chunk.js.map",
+    "index.html": "/GezaPerlaki.github.io/book-search/index.html",
+    "static/css/2.c7c62aa4.chunk.css.map": "/GezaPerlaki.github.io/book-search/static/css/2.c7c62aa4.chunk.css.map",
+    "static/css/main.877b16b8.chunk.css.map": "/GezaPerlaki.github.io/book-search/static/css/main.877b16b8.chunk.css.map",
+    "static/js/2.dcbccf4a.chunk.js.LICENSE.txt": "/GezaPerlaki.github.io/book-search/static/js/2.dcbccf4a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df86e22a.js",
+    "static/css/2.c7c62aa4.chunk.css",
+    "static/js/2.dcbccf4a.chunk.js",
+    "static/css/main.877b16b8.chunk.css",
+    "static/js/main.08778ae1.chunk.js"
+  ]
+}
