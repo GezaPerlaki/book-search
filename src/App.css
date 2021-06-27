@@ -25,11 +25,20 @@ header {
   justify-content: space-between;
   background-color: rgba(141, 141, 141, 0.37);
 }
+.card:hover {
+  background-color: rgba(235, 231, 231, 0.37);
+  box-shadow: 5px 10px 8px #2424248c;
+}
 .image {
   width: 100%;
 }
 .modal-header {
   background-color: rgba(112, 112, 112, 0.322);
+}
+
+.btn-close {
+  top: 5;
+  right: 5;
 }
 
 .modal-body {
