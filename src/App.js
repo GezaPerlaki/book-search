@@ -71,7 +71,9 @@ function App() {
               </button>
             </div>
           </div>
-          <div className='d-flex text-white justify-content-center'>
+          {/* -----WORK IN PROGRESS-----
+          
+          <div className='d-flex text-white justify-content-center invisible'>
             <div className='form-group'>
               <label htmlFor='maxResults'>Max Results</label>
               <input
@@ -96,7 +98,7 @@ function App() {
                 onChange={e => setStartIndex(e.target.value)}
               />
             </div>
-          </div>
+          </div> */}
         </div>
       </header>
     );

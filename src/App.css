@@ -7,16 +7,7 @@ body {
 }
 
 header {
-  /*background: url(https://images.unsplash.com/photo-1507842217343-583bb7270b66?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1453&q=80);
-  
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
-    width: 100vw;
-  height: 100vh;
-  */
-
+  background: url('https://images.unsplash.com/photo-1507842217343-583bb7270b66?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1153&q=80');
   position: relative;
   background-color: black;
 }
@@ -28,14 +19,27 @@ header {
   justify-content: center;
 }
 .card {
-  width: 230px;
+  width: 233px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  background-color: aqua;
+  background-color: rgba(141, 141, 141, 0.37);
 }
 .image {
   width: 100%;
+}
+.modal-header {
+  background-color: rgba(112, 112, 112, 0.322);
+}
+
+.modal-body {
+  padding: 0;
+  border-left: 5px solid rgb(243, 243, 243);
+  border-right: 5px solid rgb(243, 243, 243);
+}
+
+.modal-footer {
+  background-color: rgb(243, 243, 243);
 }
 
 .filter:after {
@@ -55,6 +59,8 @@ header {
   color: rgba(0, 0, 0, 0.85);
   font-weight: 500;
   font-size: 16px;
+
+  margin: 6px;
   white-space: nowrap;
   text-overflow: ellipsis;
 }
