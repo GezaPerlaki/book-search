@@ -15,7 +15,7 @@
     "reactstrap": "^8.9.0",
     "web-vitals": "^1.1.2"
   },
-  "homepage": "http://github.com/GezaPerlaki.github.io/book-search",
+  "homepage": "http://GezaPerlaki.github.io/book-search",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
