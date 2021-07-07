@@ -46,12 +46,7 @@ function App() {
       <header className='d-flex justify-content-center align-items-center flex-column'>
         {/* Overlay */}
         <div className='filter'></div>
-        <h1
-          className='display-2 text-center text-white mb-3'
-          style={{ zIndex: 2 }}
-        >
-          Book Search
-        </h1>
+        <h1 className='display-2 text-center text-white mb-3'>Book Search</h1>
         <div style={{ width: '60%', zIndex: 2 }}>
           <div size='lg' className='input-group mb-3'>
             <input
@@ -71,9 +66,8 @@ function App() {
               </button>
             </div>
           </div>
-          {/* -----WORK IN PROGRESS-----
-          
-          <div className='d-flex text-white justify-content-center invisible'>
+          {/* Max results, Start index */}
+          <div className='d-flex text-white justify-content-center visible'>
             <div className='form-group'>
               <label htmlFor='maxResults'>Max Results</label>
               <input
@@ -98,7 +92,7 @@ function App() {
                 onChange={e => setStartIndex(e.target.value)}
               />
             </div>
-          </div> */}
+          </div>
         </div>
       </header>
     );
